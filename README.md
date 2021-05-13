@@ -10,7 +10,7 @@ X_=MP <br>  L_=MK <br>
 B_=HP <br>  R_=HK <br>
 
 # SNK (4btn layout)
-A_=Arcade-A(WS,LP) <br>  X_=Arcade-B(SS,LK) <br>
-B_=Arcade-C(WK,HP) <br>  Y_=Arcade-D(SK/D,HK) <br>
+A_=Arcade-A <br>  X_=Arcade-B <br>
+B_=Arcade-C <br>  Y_=Arcade-D <br>
 
 While I have my controls set up with LK & LP on the shoulder buttons, you can customize the configuration however you would like.
